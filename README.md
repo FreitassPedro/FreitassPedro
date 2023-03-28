@@ -23,6 +23,5 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 ## 📈 Estatísticas
 
-[![Estatísticas do GitHub de seu nome](https://github-readme-stats.vercel.app/api?username=FreitassPedro&show_icons=true&count_private=true&hide=issues&include_all_commits=true)](https://github.com/FreitassPedro)
 
 [![Linguagens mais usadas por seu nome](https://github-readme-stats.vercel.app/api/top-langs/?username=FreitassPedro&layout=compact)](https://github.com/FreitassPedro)
