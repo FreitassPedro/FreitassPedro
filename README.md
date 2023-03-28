@@ -1,3 +1,4 @@
+<img src="https://github.com/FreitassPedro/FreitassPedro/blob/main/background.jpg" alt="Background">
 ### Olá! Eu sou Pedro Freitas 👋
 
 Sou um desenvolvedor Java, apaixonado por tecnologia e sempre buscando aprender coisas novas. Neste perfil você encontrará alguns dos meus projetos e experimentos com Java.
