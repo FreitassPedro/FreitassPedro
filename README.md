@@ -1,7 +1,4 @@
 <img src="https://github.com/FreitassPedro/FreitassPedro/blob/main/background.jpg" alt="Background">
-### Olá! Eu sou Pedro Freitas 👋
-
-Sou um desenvolvedor Java, apaixonado por tecnologia e sempre buscando aprender coisas novas. Neste perfil você encontrará alguns dos meus projetos e experimentos com Java.
 
 ##  Interesse
 
@@ -16,7 +13,7 @@ Sou um desenvolvedor Java, apaixonado por tecnologia e sempre buscando aprender 
 
 ##  Projetos em destaque
 
-Aqui estão alguns dos meus projetos mais recentes:
+Projetos mais recentes:
 
 - [Login Conta Bancária](https://github.com/FreitassPedro/FirstBank) - Manipulação de dados como forma de conta bancária
 - [Encontre maior número](https://github.com/FreitassPedro/EncontrarMaiorNumero) - Programa que encontra o número que mais se repete de acordo com os dados fornecidos pelo usuário.
