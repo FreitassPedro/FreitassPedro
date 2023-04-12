@@ -16,8 +16,7 @@
 Projetos mais recentes:
 
 - [Login Conta Bancária](https://github.com/FreitassPedro/FirstBank) - Manipulação de dados como forma de conta bancária
-- [Encontre maior número](https://github.com/FreitassPedro/FolhaPagamento) - Programa que encontra o número que mais se repete de acordo com os dados fornecidos pelo usuário.
-
+- [Impressora Folha Pagamento](https://github.com/FreitassPedro/FolhaPagamento) - Programa que ao fornecer os dados, imprime toda a lista completa para que você não precise digitar novamente.
 ##  Estatísticas
 
 
