@@ -2,8 +2,8 @@
 
 ##  Interesse
 
-- Desenvolver habilidades em Java
-- Aprender outras linguagens como Python, C
+- Desenvolver habilidades em Java, Python
+- Aprender outras linguagens como Assembly, C, ou back-end em geral
 - Tornar-se um programador bem sucedido, capacitado a desenvolver qualquer projeto
 
 ## Como me encontrar
